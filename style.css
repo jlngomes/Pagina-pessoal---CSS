@@ -1,0 +1,95 @@
+/* reset */
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    background-color: #0e2449 ;
+}
+
+
+/* Seletor por tag */
+h1 {
+    color: #689ffd;
+}
+
+h2 {
+    color: #689ffd;
+}
+
+p{
+    color: #689ffd;
+}
+
+h3 {
+    color: #689ffd;
+}
+
+
+/* Seletor por classe */
+.blue {
+    color: #689ffd;
+    background-color: gray;
+    margin-left: 200px;
+    text-align: center;
+}
+
+.protest {
+    font-family: "Protest Guerrilla", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+.fontImpact {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+/* Seletor por id */
+#meuId {
+    color: green;
+    text-decoration: none;
+}
+
+
+img {
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    border-radius: 20%;
+    margin: 10px;
+}
+
+.bebas {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+  /* Menu */
+nav {
+    background-color: #0e2449;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    margin-right: 20px;
+}
+
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
+a:hover {
+    color: #abebfa;
+}
